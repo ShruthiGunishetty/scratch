@@ -1,0 +1,9 @@
+events: maze amaze game.. 0
+		-90             90
+			180
+
+
+----------------------------------------
+data - ways to create falling objects 
+list
+----------------------------------
